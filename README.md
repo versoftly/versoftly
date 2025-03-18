@@ -36,7 +36,7 @@ Si bien agradezco los comentarios y sugerencias, ten en cuenta que estos proyect
 
 Si hay algo que quieras preguntar, no dudes en hacerlo.
 
-[Tu información de contacto - por ejemplo, correo electrónico, perfil de LinkedIn]
+[ramirogglez31@gmail.com]
 
 ---
 
@@ -73,7 +73,3 @@ While I appreciate feedback and suggestions, please keep in mind that these proj
 
 Thank you for your understanding and for taking the time to explore my work! I hope you find it insightful, even in its unfinished state.
 
-**Contact:**
-If there is anything you wold like to ask feel free to.
-
-[Your Contact Information - e.g., email, LinkedIn profile]
